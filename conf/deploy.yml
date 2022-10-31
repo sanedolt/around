@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://10.128.0.2:9200"
+  username: "yyaannggssoonngg"
+  password: "another"
+
+gcs:
+  bucket: "around-bucket-ys"
+
+token:
+  secret: "secret"
